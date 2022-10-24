@@ -1,0 +1,32 @@
+h1{
+    color: white;
+  }
+.data{
+  margin: 20px;
+}
+  .input {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px 30px 30px 30px;
+    background-color: #0d6efd;
+    border-radius: 15px;
+    box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff;
+  }
+
+  .table1{
+    background-color:#0d6efd;
+    color: white;
+  }
+  .aksi {
+            background-color: #0d6efd;
+            color: white;
+             padding: 5px 20px;
+             text-align: center;
+             text-decoration: none;
+             display: inline-block;
+        }
+  table{
+    margin: 20px auto;
+    border-left : 1px solid #ddd;
+    border-right : 1px solid #ddd;
+  }
